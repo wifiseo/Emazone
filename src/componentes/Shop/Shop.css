@@ -1,0 +1,9 @@
+.ShopContainer{
+    display: flex;
+}
+.productContainer{
+    width: 70%;
+}
+.cartSiteBar{
+    width: 30%;
+}

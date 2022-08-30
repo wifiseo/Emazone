@@ -1,0 +1,16 @@
+.productBody{
+    display: flex;
+    margin: 2%;
+}
+
+.productGrid{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid gray;
+    margin: 3px;
+    display: flex;
+    align-items: center;
+}
+.prodductDetails {
+    margin-left: 10px;
+}
